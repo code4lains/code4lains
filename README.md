@@ -56,7 +56,7 @@ Here are some of my recent and most technically challenging projects. <br/>
 
 ## 🛠️ Other Utilities / 实用工具
 
-### 🪟 [Ltsc-Resources](https://github.com/code4lains/Ltsc-Resources)
+### 💻 [Ltsc-Resources](https://github.com/code4lains/Ltsc-Resources)
 > **Scripts to optimize Windows LTSC experience.** / **优化 Windows LTSC 体验的脚本工具。**
 - **Highlights / 亮点**: Uses PowerShell to restore missing built-in features (like Microsoft Store), recover Remote Desktop, and automate power plan switching based on power state. / 利用 PowerShell 恢复缺失的内置功能（如应用商店）、找回远程桌面，并实现基于电源状态的自动电源计划切换。
 

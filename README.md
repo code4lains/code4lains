@@ -37,6 +37,11 @@ Here are some of my recent and most technically challenging projects. <br/>
   - **`serverless`**: Fully serverless deployment using Supabase and Cloudflare Pages. / 基于 Supabase + Cloudflare Pages 的纯 Serverless 部署分支。
 - **Highlights / 亮点**: Built with modern React 19 and Tailwind CSS. Includes user pairing, interactive wish lists, a multimedia memory wall, condition-based secret messages, and secure encrypted data backups. / 前端基于最新的 React 19 构建，实现了情侣配对、互动心愿单、多媒体回忆墙、条件触发的私密留言以及安全的数据加密备份功能。
 
+### 📁 [Rclone-Studio](https://github.com/code4lains/Rclone-Studio)
+> **A modern, gorgeous, and dynamic Web & Desktop UI for Rclone.** / **一个为 Rclone 打造的现代、精美且充满动态反馈的桌面端/网页端管理工具。**
+- **Stack / 技术栈**: Vue 3, TailwindCSS, Wails, Go
+- **Highlights / 亮点**: Cross-platform (Desktop & Web) support, realtime monitoring dashboard, visual file browser, config wizard, and one-click remote mounting. / 提供原生桌面端与网页端双端支持，包含实时监控仪表盘、可视化文件浏览器、配置向导以及一键云盘挂载功能。
+
 ### 📄 [Serverless-Docs-Converter](https://github.com/code4lains/Serverless-Docs-Converter)
 > **A pure frontend, zero-server document conversion tool.** / **一款纯前端的无服务端文档转换工具。**
 - **Stack / 技术栈**: Vue 3, TypeScript, Vite, mammoth, docx, marked, SheetJS

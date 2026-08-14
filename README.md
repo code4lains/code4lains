@@ -37,6 +37,11 @@ Here are some of my recent and most technically challenging projects. <br/>
   - **`serverless`**: Fully serverless deployment using Supabase and Cloudflare Pages. / 基于 Supabase + Cloudflare Pages 的纯 Serverless 部署分支。
 - **Highlights / 亮点**: Built with modern React 19 and Tailwind CSS. Includes user pairing, interactive wish lists, a multimedia memory wall, condition-based secret messages, and secure encrypted data backups. / 前端基于最新的 React 19 构建，实现了情侣配对、互动心愿单、多媒体回忆墙、条件触发的私密留言以及安全的数据加密备份功能。
 
+### 📡 [Local-Dialog](https://github.com/code4lains/Local-Dialog)
+> **A P2P LAN large file transfer & instant messaging assistant for Web & Desktop.** / **基于 WebRTC 的跨平台局域网 P2P 大文件切片传输与即时通信助手。**
+- **Stack / 技术栈**: React 19, TypeScript, Material-UI, WebRTC (PeerJS), Tauri v2, Zustand, Vite
+- **Highlights / 亮点**: Serverless browser-to-browser P2P direct transfer, chunked large file streaming with memory overflow protection, IP Hash-based automatic LAN peer discovery, QR code quick pairing, and dual-mode deployment (Static Web / Cloudflare Pages + Tauri native desktop). / 基于 WebRTC / PeerJS 实现纯 P2P 端到端直连传输与免服务器中转；支持大文件切片流式传输防内存溢出与实时进度监控；内置基于 IP Hash 的局域网设备自发现与二维码扫码配对建房；提供纯静态 Web（Cloudflare Pages）与 Tauri 原生跨平台桌面端双端支持。
+
 ### 📁 [Rclone-Studio](https://github.com/code4lains/Rclone-Studio)
 > **A modern, gorgeous, and dynamic Web & Desktop UI for Rclone.** / **一个为 Rclone 打造的现代、精美且充满动态反馈的桌面端/网页端管理工具。**
 - **Stack / 技术栈**: Vue 3, TailwindCSS, Wails, Go
